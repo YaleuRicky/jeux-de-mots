@@ -1,0 +1,76 @@
+main{
+    margin: 100px 300px;
+    text-align: center;
+    background-color: #333;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: #15a2ff;
+    margin-bottom: 0;
+}
+
+h2{
+    color: #ff1452;
+    margin-bottom: 0;
+}
+
+h4{
+    margin-top: 5px;
+    color: #fa721d;
+}
+
+.contenu{
+    background: aqua;
+    margin: 0 200px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.zoneOption{
+    padding: 10px 50px;
+    color: rgb(211, 41, 197);
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.zoneProposition{
+    background: white;
+    margin: 0 35px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #15a2ff;
+    font-weight: bolder;
+}
+
+.zoneSaisie{
+    margin-top: 10px;
+}
+
+.zoneSaisie input{
+    width: 300px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-right: 10px;
+}
+
+.zoneSaisie button{
+    padding: 8px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background: white;
+    color: red;
+    font-weight: bold;
+}
+
+.zoneScore{
+    margin: 20px 0;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
